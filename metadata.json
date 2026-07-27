@@ -1,0 +1,6 @@
+{
+  "name": "Social Marketing Hub",
+  "description": "Social media content scheduling, video channel growth planning and marketing analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
